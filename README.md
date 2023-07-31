@@ -22,7 +22,7 @@ I'm Front-end Web Developer, pursuit to create user-friendly designs through wri
 ## Projects
 ### Completed Projects
 1. **Stackoverflow Clone-Coding**
-- 설명: 스택오버플로우 클론코딩. 교육기관 Codestates 에서 진행한 팀 프로젝트.
+- 설명: 스택오버플로우 클론코딩. 교육기관 Codestates 에서 진행한 팀 프로젝트
 - 목적:
   - 협업과 소통: 팀으로 일하는 것에 익숙해지기 위함
   - Git 활용 : Git issue, milestone, project, kanban 등의 도구의 활용을 높이기 위함
@@ -31,7 +31,7 @@ I'm Front-end Web Developer, pursuit to create user-friendly designs through wri
 <br>
 
 2. **ShellWe**
-- 설명: 물품 및 재능 교환 웹 애플리케이션. 교육기관 codestates 에서 진행한 팀 프로젝트.
+- 설명: 물품 및 재능 교환 웹 애플리케이션. 교육기관 codestates 에서 진행한 팀 프로젝트
 - 목적: 최소 기능 제품(실제 서비스로 출시할 수준의 앱 개발)
 - 기간: 22일
 - *팀 리더를 맡음*
