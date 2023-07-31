@@ -2,8 +2,8 @@
 I'm a passionate Front-end Web Developer, dedicated to creating user-friendly designs through writing code.
 
 ## Reach me out!
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- Email: [wnehddn1111@google.com](mailto:wnehddn1111@google.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/dongwoo-joo-5a3252226/))
 
 ## Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
@@ -14,8 +14,8 @@ I'm a passionate Front-end Web Developer, dedicated to creating user-friendly de
 ![react-query](https://img.shields.io/badge/-React%20Query-000000?logo=react-query&logoColor=61DAFB&style=flat)
 
 *Especially interested in: HTML, CSS, and React Query*
-
-## Projects
+<details>
+<summary>## Projects</summary>
 - **Completed Projects**
 1. **Stackoverflow Clone-Coding**
    - Description: A clone-coding project of Stackoverflow. Conducted as a team project at educational institution Codestates.
@@ -30,4 +30,4 @@ I'm a passionate Front-end Web Developer, dedicated to creating user-friendly de
    - *Served as the team leader.*
 
 ---
-*Feel free to copy and paste the above content into your README.md file. Remember to customize the contact details and links accordingly.*
+</details>
