@@ -6,12 +6,12 @@ I'm Front-end Web Developer, dedicated to creating user-friendly designs through
 - LinkedIn: [Dongwoo Joo](https://www.linkedin.com/in/dongwoo-joo-5a3252226/)
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" height="30">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" height="30">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" height="30">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" height="30">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="30">
-<img src="https://img.shields.io/badge/-React%20Query-000000?logo=react-query&logoColor=61DAFB&style=flat" height="30">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=react query&logoColor=black">
+<img src="https://img.shields.io/badge/HTML-DB7093?style=for-the-badge&logo=HTML&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-3578E5?style=for-the-badge&logo=CSS&logoColor=black">
 <br>
 *최근 관심 기술: HTML, CSS, and React Query*
 
