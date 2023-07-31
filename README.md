@@ -12,11 +12,10 @@ I'm a passionate Front-end Web Developer, dedicated to creating user-friendly de
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![react-query](https://img.shields.io/badge/-React%20Query-000000?logo=react-query&logoColor=61DAFB&style=flat)
+<br>
 *Especially interested in: HTML, CSS, and React Query*
 
 ## Projects
-<details>
-<summary>Detail</summary>
 **Completed Projects**
 <br>
 1. **Stackoverflow Clone-Coding**
@@ -32,4 +31,3 @@ I'm a passionate Front-end Web Developer, dedicated to creating user-friendly de
    - *Served as the team leader.*
 
 ---
-</details>
