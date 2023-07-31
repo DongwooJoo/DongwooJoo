@@ -18,12 +18,14 @@ I'm a passionate Front-end Web Developer, dedicated to creating user-friendly de
 ## Projects
 **Completed Projects**
 <br>
+
 1. **Stackoverflow Clone-Coding**
    - Description: A clone-coding project of Stackoverflow. Conducted as a team project at educational institution Codestates.
    - Purpose: 1. Enhancing collaboration and communication skills within a team environment. 2. Utilizing Git tools such as issues, milestones, projects, and kanban boards effectively.
    - Duration: 14 days
    - *Served as the team leader.*
 <br>
+
 2. **ShellWe**
    - Description: A web application for exchanging goods and talents. Developed as a team project at educational institution Codestates.
    - Purpose: Creating a minimum viable product (MVP) to meet the standards for a real-world service.
