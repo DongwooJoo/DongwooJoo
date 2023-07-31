@@ -30,7 +30,7 @@ I'm Front-end Web Developer, dedicated to creating user-friendly designs through
 
 2. **ShellWe**
 - 설명: 물품 및 재능 교환 웹 애플리케이션. 교육기관 codestates 에서 진행한 팀 프로젝트.
-- 목적: 1. 최소 기능 제품: 실제 서비스로 출시할 수준의 앱 개발.
+- 목적: 최소 기능 제품(실제 서비스로 출시할 수준의 앱 개발)
 - 기간: 22일
 - *팀 리더를 맡음*
 
