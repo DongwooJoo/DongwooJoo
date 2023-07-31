@@ -14,9 +14,11 @@ I'm a passionate Front-end Web Developer, dedicated to creating user-friendly de
 ![react-query](https://img.shields.io/badge/-React%20Query-000000?logo=react-query&logoColor=61DAFB&style=flat)
 
 *Especially interested in: HTML, CSS, and React Query*
+
+## Projects
 <details>
-<summary>## Projects</summary>
-- **Completed Projects**
+<summary>Detail</summary>
+**Completed Projects**
 1. **Stackoverflow Clone-Coding**
    - Description: A clone-coding project of Stackoverflow. Conducted as a team project at educational institution Codestates.
    - Purpose: 1. Enhancing collaboration and communication skills within a team environment. 2. Utilizing Git tools such as issues, milestones, projects, and kanban boards effectively.
