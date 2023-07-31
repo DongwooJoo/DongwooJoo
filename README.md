@@ -3,7 +3,7 @@ I'm Front-end Web Developer, pursuit to create user-friendly designs through wri
 
 ## Reach me out!
 - Email: [wnehddn1111@google.com](mailto:wnehddn1111@google.com)
-- Linked In: [Dongwoo Joo](https://www.linkedin.com/in/dongwoo-joo-5a3252226)
+- LinkedIn: [Dongwoo Joo](https://www.linkedin.com/in/dongwoo-joo-5a3252226)
 - Tech blog: [velog](https://velog.io/@dwjoo)
 - Life blog: [naver blog](https://blog.naver.com/wnehddn111)
 
