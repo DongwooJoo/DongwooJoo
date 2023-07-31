@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, I'm Dongwoo Joo 👋
+I'm a passionate Front-end Web Developer, dedicated to creating user-friendly designs through writing code.
 
-<!--
-**DongwooJoo/DongwooJoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Reach me out!
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
 
-Here are some ideas to get you started:
+## Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![react-query](https://img.shields.io/badge/-React%20Query-000000?logo=react-query&logoColor=61DAFB&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Especially interested in: HTML, CSS, and React Query*
+
+## Projects
+- **Completed Projects**
+1. **Stackoverflow Clone-Coding**
+   - Description: A clone-coding project of Stackoverflow. Conducted as a team project at educational institution Codestates.
+   - Purpose: 1. Enhancing collaboration and communication skills within a team environment. 2. Utilizing Git tools such as issues, milestones, projects, and kanban boards effectively.
+   - Duration: 14 days
+   - *Served as the team leader.*
+
+2. **ShellWe**
+   - Description: A web application for exchanging goods and talents. Developed as a team project at educational institution Codestates.
+   - Purpose: Creating a minimum viable product (MVP) to meet the standards for a real-world service.
+   - Duration: 22 days
+   - *Served as the team leader.*
+
+---
+*Feel free to copy and paste the above content into your README.md file. Remember to customize the contact details and links accordingly.*
