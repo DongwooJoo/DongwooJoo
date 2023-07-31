@@ -6,12 +6,12 @@ I'm Front-end Web Developer, dedicated to creating user-friendly designs through
 - LinkedIn: [Dongwoo Joo](https://www.linkedin.com/in/dongwoo-joo-5a3252226/)
 
 ## Tech Stack
-<div align=center>
+<div align=left>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/react query-FF4154?style=for-the-badge&logo=react query&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-DB7093?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-DB7093?style=for-the-badge&logo=HTML5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS-3578E5?style=for-the-badge&logo=CSS&logoColor=black">
 </div>
   <br>
