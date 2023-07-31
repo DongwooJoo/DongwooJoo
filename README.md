@@ -1,5 +1,5 @@
 # Hi, I'm Dongwoo Joo 👋
-I'm a passionate Front-end Web Developer, dedicated to creating user-friendly designs through writing code.
+I'm Front-end Web Developer, dedicated to creating user-friendly designs through writing code.
 
 ## Reach me out!
 - Email: [wnehddn1111@google.com](mailto:wnehddn1111@google.com)
